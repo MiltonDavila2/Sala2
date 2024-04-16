@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MiltonDavila_Taller.props" />
+</Project>
